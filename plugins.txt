@@ -72,4 +72,4 @@ email-ext:2.68
 kubernetes-cd:2.2.0
 azure-commons:1.04
 cobertura:1.15
-sonarqube-scanner:2.10
+#sonarqube-scanner:2.10
